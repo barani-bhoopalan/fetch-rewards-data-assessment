@@ -1,6 +1,7 @@
 **Fetch Data Analysis - Google Colab Collaboration**
 
-📌** Overview**
+📌 **Overview**
+
 This project focuses on analyzing Fetch datasets, including user, transaction, and product data. Explored the data, cleaned and transformed it for better analysis, answered key business questions using SQL and Python, and created visualizations to highlight trends. A summary section was added to help stakeholders quickly understand key data quality issues.
 
 📊 **What's Done So Far**
@@ -17,10 +18,12 @@ This project focuses on analyzing Fetch datasets, including user, transaction, a
 
 🚀 **Next Steps**
 
-Optimize SQL queries for better performance.
+1. Optimize SQL queries for better performance.
 
-Improve visualizations with more interactive elements.
+2. Improve visualizations with more interactive elements.
 
-Automate reporting to make sharing insights even easier.
+3. Automate reporting to make sharing insights even easier.
 
-🔗 Use the link to open the project in Google Colab. Hit me up if you need access! 😊
+🔗 **Use the link to open the project in Google Colab**. Hit me up if you need access! 😊
+
+https://colab.research.google.com/github/barani-bhoopalan/fetch-rewards-data-assessment/blob/fetch-data-analysis-v1/Fetch_Assessment.ipynb
